@@ -32,5 +32,5 @@
 Алгоритм работы метода приведен на диаграмме.
 [plantuml,post,png]
 ----
-include:: post.puml[]
+include::post.puml[]
 ----
